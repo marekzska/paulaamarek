@@ -3,12 +3,11 @@ import React from 'react'
 interface WavyTextProps {
     text: string
     emoji: string
-    waves?: number // Number of full waves to display (default: 2)
 }
 
 export const WavyText: React.FC<WavyTextProps> = ({ text, emoji }) => {
     // Repeat pattern multiple times
-    const repeatedPattern = Array(30).fill(null).map((_, i) => (
+    const repeatedPattern = Array(100).fill(null).map((_, i) => (
         <React.Fragment key={i}>
             <tspan>{text}</tspan>
             <tspan dx="16"> </tspan>

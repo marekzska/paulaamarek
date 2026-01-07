@@ -11,10 +11,42 @@ export const texts = {
   rightText: `13.06.2026<br/>
   Pod Gaštankou`,
 
-  // welcome text
+  // main text
   welcomeTitle: "Ahojte!",
   welcomeText: `
-Budeme sa brať a veľmi sa tešíme, že tento výnimočný deň môžeme osláviť spolu s vami. <br/><br/>
-Pripravili sme pre vás túto stránku, kde nájdete všetky dôležité informácie o našej svadbe.<br/><br/>
+Budeme sa brať a veľmi sa tešíme, že tento výnimočný deň môžeme osláviť spolu s vami. <br/>
+Pripravili sme pre vás túto stránku, kde nájdete všetky dôležité informácie o našej svadbe.<br/>
 Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa nám ozvite.`,
+
+  // whats happening
+  whatsHappeningTitle: "Čo sa bude diať",
+  whatsHappeningDate: "Sobota, 13. Jún 2026",
+  whatHappeningForEveryoneTitle: "Pre všetkých",
+  whatHappeningForEveryoneText: `
+  <b>Obrad</b> | 14:30 - 15:00 <br/>
+  Kostol sv. Martina - Vinosady<br/>
+  Pezinská 151, 902 01 Vinosady
+  `,
+  whatsHappeningForGuestsTitle: "Pre našich najbližších",
+  whatsHappeningForGuestsText: `
+    <b>Presun</b> : 15:45 - 16:00 <br/>
+    Autobusmi do areálu <a href="https://www.podgastankou.sk/" target="_blank" rel="noopener noreferrer">Pod Gaštankou</a><br/>
+    Kalinčiakova ulica, 900 01 Modra<br/><br/>
+
+    <b>Cocktail hour</b> | 16:00 - 17:00 <br/><br/>
+
+    <b>Privítanie, príhovory a prípitok</b> | 17:00 - 17:30 <br/><br/>
+
+    <b>Večera</b> | 17:30 - 19:00 <br/><br/>
+
+    <b>Spoločný program</b> | 19:00 - 20:00 <br/><br/>
+
+    <b>Prvý tanec</b> | 20:00 <br/><br/>
+
+    <b>Krájanie torty</b> | 20:20 <br/><br/>
+
+    <b>Voľný program</b> | 21:00 - ... <br/><br/>
+
+    <b>Čepčenie</b> | 00:00 <br/>
+  `,
 };
