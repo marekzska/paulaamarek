@@ -12,9 +12,11 @@ module.exports = {
     },
     extend: {
       colors: {
+        // farby
         lighter: "#E57B7D",
         darker: "#C72939",
         background: "#FBE5CB",
+        // farby - end
 
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
