@@ -1,5 +1,6 @@
 import { texts } from "@/model/data/texts";
 import { Button } from "./ui/button";
+import { Link } from "react-router";
 
 export const Where = () => {
   return (
@@ -40,12 +41,14 @@ export const Where = () => {
           className="text-lighter text-base"
           dangerouslySetInnerHTML={{ __html: texts.whereInfoText }}
         />
-        <Button
-          variant="outline"
-          className="rounded-full text-xl text-darker border-darker uppercase font-normal xl:w-1/3 border-2 py-6 hover:bg-darker hover:text-white"
-        >
-          {texts.whereLinkText}
-        </Button>
+        <Link to="https://www.podgastankou.sk/">
+          <Button
+            variant="outline"
+            className="rounded-full text-xl text-darker border-darker uppercase font-normal xl:w-1/3 border-2 py-6 hover:bg-darker hover:text-white"
+          >
+            {texts.whereLinkText}
+          </Button>
+        </Link>
       </div>
     </div>
   );
