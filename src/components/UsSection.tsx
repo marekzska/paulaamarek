@@ -2,7 +2,7 @@ import { texts } from "@/model/data/texts";
 
 export const UsSection = () => {
   return (
-    <div className="flex flex-col gap-10 lg:gap-0 lg:grid grid-cols-2 mx-10 px-10 py-16 border-b border-darker">
+    <div className="flex flex-col gap-10 lg:gap-0 lg:grid grid-cols-2 mx-10 lg:px-10 py-16 border-b border-darker">
       <div className="flex flex-col gap-10">
         <h2 className="font-bold text-7xl text-darker font-sansita">
           {texts.usTitle}

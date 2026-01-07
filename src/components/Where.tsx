@@ -4,7 +4,7 @@ import { Link } from "react-router";
 
 export const Where = () => {
   return (
-    <div className="flex flex-col gap-10 lg:grid grid-cols-2 gap-10 mx-10 px-10 py-20">
+    <div className="flex flex-col gap-10 lg:grid grid-cols-2 gap-10 mx-10 lg:px-10 py-20">
       <div className="flex flex-col gap-4">
         <h2 className="text-darker font-bold text-7xl font-sansita">
           {texts.whereTitle}
