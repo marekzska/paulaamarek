@@ -1,4 +1,7 @@
-import { PermissionsResourceEnum } from '@/model/enums/PermissionsResourceEnum'
-import { PermissionsObject } from './PermissionsObject'
+import { PermissionsResourceEnum } from "@/model/enums/PermissionsResourceEnum";
+import { PermissionsObject } from "./PermissionsObject";
 
-export type UserPermissions = Record<PermissionsResourceEnum, PermissionsObject>
+export type UserPermissions = Record<
+  PermissionsResourceEnum,
+  PermissionsObject
+>;

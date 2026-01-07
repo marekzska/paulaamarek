@@ -1,17 +1,35 @@
-import { texts } from "@/model/data/texts"
+import { texts } from "@/model/data/texts";
 
 export const WhatsHappening = () => {
-    return (
-        <div className="grid grid-cols-2 px-20 py-16 border-b border-darker">
-            <h2 className="text-darker font-bold text-5xl font-sansita">{texts.whatsHappeningTitle}</h2>
-            <div className="flex flex-col gap-8">
-                <h3 className="text-darker font-bold text-3xl font-sansita">{texts.whatsHappeningDate}</h3>
-                <h4 className="text-darker font-bold text-2xl font-sansita">{texts.whatHappeningForEveryoneTitle}</h4>
-                <p className="text-sm font-nunito text-lighter" dangerouslySetInnerHTML={{__html: texts.whatHappeningForEveryoneText}} />
+  return (
+    <div className="grid grid-cols-2 mx-10 px-10 py-16 border-b border-darker">
+      <h2 className="text-darker font-bold text-5xl font-sansita">
+        {texts.whatsHappeningTitle}
+      </h2>
+      <div className="flex flex-col gap-8">
+        <h3 className="text-darker font-bold text-3xl font-sansita">
+          {texts.whatsHappeningDate}
+        </h3>
+        <h4 className="text-darker font-bold text-2xl font-sansita">
+          {texts.whatHappeningForEveryoneTitle}
+        </h4>
+        <p
+          className="text-sm font-nunito text-lighter"
+          dangerouslySetInnerHTML={{
+            __html: texts.whatHappeningForEveryoneText,
+          }}
+        />
 
-                <h4 className="text-darker font-bold text-2xl font-sansita">{texts.whatsHappeningForGuestsTitle}</h4>
-                <p className="text-sm font-nunito text-lighter" dangerouslySetInnerHTML={{__html: texts.whatsHappeningForGuestsText}} />
-            </div>
-        </div>
-    )
-}
+        <h4 className="text-darker font-bold text-2xl font-sansita">
+          {texts.whatsHappeningForGuestsTitle}
+        </h4>
+        <p
+          className="text-sm font-nunito text-lighter"
+          dangerouslySetInnerHTML={{
+            __html: texts.whatsHappeningForGuestsText,
+          }}
+        />
+      </div>
+    </div>
+  );
+};

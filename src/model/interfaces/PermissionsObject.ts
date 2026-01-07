@@ -1,6 +1,7 @@
-import { PermissionsActionEnum } from '@/model/enums/PermissionsActionEnum'
+import { PermissionsActionEnum } from "@/model/enums/PermissionsActionEnum";
 
-export interface PermissionsObject extends Record<PermissionsActionEnum, boolean> {
-  fields?: Record<string, boolean>
-  nested?: []
+export interface PermissionsObject
+  extends Record<PermissionsActionEnum, boolean> {
+  fields?: Record<string, boolean>;
+  nested?: [];
 }
