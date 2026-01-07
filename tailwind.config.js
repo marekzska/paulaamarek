@@ -12,10 +12,13 @@ module.exports = {
     },
     extend: {
       colors: {
+        lighter: "#E57B7D",
+        darker: "#C72939",
+        background: '#FBE5CB',
+
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
         ring: 'hsl(var(--ring))',
-        background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
         primary: {
           DEFAULT: 'hsl(var(--primary))',
@@ -65,6 +68,10 @@ module.exports = {
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
       },
+      fontFamily: {
+        sansita: ['"Sansita"', 'sans-serif'],
+        nunito: ['"Nunito Sans"', 'sans-serif'],
+      }
     },
   },
   plugins: [require('tailwindcss-animate')],
