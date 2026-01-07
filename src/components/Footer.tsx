@@ -5,7 +5,7 @@ import { Link } from "react-router";
 export const Footer = () => {
   return (
     <div className="flex flex-col gap-5 lg:flex-row justify-between items-center mx-10 pb-20">
-      <h3 className="text-4xl font-bold font-sansita text-darker">
+      <h3 className="text-4xl font-bold font-sansita text-darker text-center lg:text-left">
         {texts.footerText}
       </h3>
       <Link to="https://invitations.paulaamarek.com/">
