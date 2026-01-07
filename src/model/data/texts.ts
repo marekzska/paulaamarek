@@ -66,4 +66,18 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
       <li>Kýcha spravidla trikrát.</li>
     </ul>
   `,
+
+  // where section
+  whereTitle: "Kde",
+  whereCeremonyTitle: "Obrad",
+  whereFeastTitle: "Hostina",
+  whereInfoText: `
+  Všetky informácie o areáli, kde sa svatba uskutoční nájdete na ich
+  oficiálnom webe. V prípade, že nepôjdete z kostola s nami autobusom o
+  parkovanie sa nemusíte báť. Priamo <b>pred bránami areálu</b> je miesto, kde
+  môžete auto pohodlne zaparkovať.`,
+  whereLinkText: "Stránka areálu",
+
+  // footer section
+  footerText: "Paula a Marek 13.06.26",
 };
