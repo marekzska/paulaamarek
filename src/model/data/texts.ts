@@ -49,4 +49,21 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
 
     <b>Čepčenie</b> | 00:00 <br/>
   `,
+
+  // MY sekcia
+  usTitle: "My",
+  usTeaser:
+    "Šanca, že sa na tejto stránke ocitol niekto kto nás nepozná je veľmi malá. Poznáme sa od strednej, bývame v švajčiarskej dedinke Cham, máme corgiho ktorý sa volá Merlin a máme sa radi. Skúsme to teda inak…",
+  usQuizTitle: "Paula alebo Marek ?",
+  usQuizText: `
+    <ul class="list-disc list-inside pl-4 space-y-2">
+      <li>V roku 2025 prečítal(a) 60 kníh.</li>
+      <li>Cielene robí čaj v poradí voda, sáčok s čajom. Nikdy nie naopak.</li>
+      <li>Pizzu s artičokmi ochutnal(a) prvý krát v Taliansku v roku 2019.</li>
+      <li>Na hre Spider-Man 2 má nahratých 55 hodín.</li>
+      <li>Pri čistení uší vatovou paličkou vždy zakašle.</li>
+      <li>Pri pití podvedome ráta počet vypitých glgov.</li>
+      <li>Kýcha spravidla trikrát.</li>
+    </ul>
+  `,
 };

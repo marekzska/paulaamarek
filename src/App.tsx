@@ -1,10 +1,10 @@
-import React from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router'
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
-import { HomePage } from './pages/HomePage'
+import React from "react";
+import { BrowserRouter, Route, Routes } from "react-router";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { HomePage } from "./pages/HomePage";
 
 export const App: React.FC = () => {
-  const queryClient = new QueryClient()
+  const queryClient = new QueryClient();
 
   return (
     <QueryClientProvider client={queryClient}>
@@ -14,5 +14,5 @@ export const App: React.FC = () => {
         </Routes>
       </BrowserRouter>
     </QueryClientProvider>
-  )
-}
+  );
+};
