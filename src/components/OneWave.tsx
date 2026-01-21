@@ -63,7 +63,7 @@ export const OneWave: React.FC<WavyTextProps> = ({ text, emoji }) => {
         }
 
         .text-lighter {
-          fill: #E57B7D;
+          fill: #F08300;
         }
       `}</style>
     </div>

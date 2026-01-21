@@ -75,7 +75,7 @@ export const WavyText: React.FC<WavyTextProps> = ({ text, emoji }) => {
         }
 
         .text-darker {
-          fill: #C72939;
+          fill: #d35c02;
         }
       `}</style>
     </div>

@@ -13,9 +13,12 @@ module.exports = {
     extend: {
       colors: {
         // farby
-        lighter: "#E57B7D",
-        darker: "#C72939",
-        background: "#FBE5CB",
+        lighter: "#F08300",
+        darker: "#d35c02",
+        background: "rgb(253, 236, 217)",
+        // lighter: "#E57B7D",
+        // darker: "#C72939",
+        // background: "#FBE5CB",
         // farby - end
 
         border: "hsl(var(--border))",

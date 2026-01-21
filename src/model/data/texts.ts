@@ -28,27 +28,29 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   Pezinská 151, 902 01 Vinosady
   `,
   whatsHappeningForGuestsTitle: "Pre našich najbližších",
-  whatsHappeningForGuestsText: `
-    <b>Presun</b> : 15:45 - 16:00 <br/>
-    Autobusmi do areálu <a href="https://www.podgastankou.sk/" target="_blank" rel="noopener noreferrer">Pod Gaštankou</a><br/>
-    Kalinčiakova ulica, 900 01 Modra<br/><br/>
+  // whatsHappeningForGuestsText: `
+  //   <b>Presun</b> : 15:45 - 16:00 <br/>
+  //   Autobusmi do areálu <a href="https://www.podgastankou.sk/" target="_blank" rel="noopener noreferrer">Pod Gaštankou</a><br/>
+  //   Kalinčiakova ulica, 900 01 Modra<br/><br/>
 
-    <b>Cocktail hour</b> | 16:00 - 17:00 <br/><br/>
+  //   <b>Cocktail hour</b> | 16:00 - 17:00 <br/><br/>
 
-    <b>Privítanie, príhovory a prípitok</b> | 17:00 - 17:30 <br/><br/>
+  //   <b>Privítanie, príhovory a prípitok</b> | 17:00 - 17:30 <br/><br/>
 
-    <b>Večera</b> | 17:30 - 19:00 <br/><br/>
+  //   <b>Večera</b> | 17:30 - 19:00 <br/><br/>
 
-    <b>Spoločný program</b> | 19:00 - 20:00 <br/><br/>
+  //   <b>Spoločný program</b> | 19:00 - 20:00 <br/><br/>
 
-    <b>Prvý tanec</b> | 20:00 <br/><br/>
+  //   <b>Prvý tanec</b> | 20:00 <br/><br/>
 
-    <b>Krájanie torty</b> | 20:20 <br/><br/>
+  //   <b>Krájanie torty</b> | 20:20 <br/><br/>
 
-    <b>Voľný program</b> | 21:00 - ... <br/><br/>
+  //   <b>Voľný program</b> | 21:00 - ... <br/><br/>
 
-    <b>Čepčenie</b> | 00:00 <br/>
-  `,
+  //   <b>Čepčenie</b> | 00:00 <br/>
+  // `,
+
+  whatsHappeningForGuestsText: "Dozviete sa neskôr :)",
 
   // MY sekcia
   usTitle: "My",
