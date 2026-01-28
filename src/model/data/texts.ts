@@ -27,6 +27,18 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   Kostol sv. Martina - Vinosady<br/>
   Pezinská 151, 902 01 Vinosady
   `,
+
+  //what you can bring
+  whatYouCanBringTitle: "Čo môžete priniesť?",
+  whatYouCanBringGifts: "Dary",
+  whatYouCanBringGiftsText: `
+  Veľmi si vážime, že s nami prídete osláviť náš veľký deň. Darčeky však vôbec nie sú nutné a najväčšou radosťou pre nás bude vaša prítomnosť. Ak by ste nás napriek tomu chceli niečím potešiť, radosť nám spraví príspevok do cestovateľského fondu na našu svadobnú cestu.
+  `,
+  whatYouCanBringFlowers: "Kvety",
+  whatYouCanBringFlowersText: `
+  Vieme, že kvety k svadbám neodmysliteľne patria. Sálu pre vás vyzdobíme viac než dosť, preto nebude nutné, aby ste kvety nosili vy. Ak by ste nám napriek tomu chceli priniesť kvety ako gratuláciu, poteší nás <b>malá</b> kytička. Pomôže nám to predísť zbytočnému plytvaniu. Ďakujeme
+  `,
+
   whatsHappeningForGuestsTitle: "Pre našich najbližších",
   // whatsHappeningForGuestsText: `
   //   <b>Presun</b> : 15:45 - 16:00 <br/>
