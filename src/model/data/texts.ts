@@ -86,7 +86,7 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   whereCeremonyTitle: "Obrad",
   whereFeastTitle: "Hostina",
   whereInfoText: `
-  Všetky informácie o areáli, kde sa svatba uskutoční nájdete na ich
+  Všetky informácie o areáli, kde sa svadba uskutoční nájdete na ich
   oficiálnom webe. V prípade, že nepôjdete z kostola s nami autobusom o
   parkovanie sa nemusíte báť. Priamo <b>pred bránami areálu</b> je miesto, kde
   môžete auto pohodlne zaparkovať.`,
