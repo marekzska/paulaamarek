@@ -7,10 +7,10 @@ export const Where = () => {
     
     <div className="mx-10 lg:px-10 py-20">
       <div className="flex flex-col gap-x-10 lg:grid grid-cols-2 gap-10 ">
+        <h2 className="text-darker font-bold text-7xl font-sansita">
+          {texts.whereTitle}
+        </h2>
         <div className="flex flex-col gap-4">
-          <h2 className="text-darker font-bold text-7xl font-sansita">
-            {texts.whereTitle}
-          </h2>
           <h3 className="text-darker font-bold text-3xl font-sansita">
             {texts.whereTransportTitle}
           </h3>
