@@ -45,8 +45,8 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
     Autobusmi do areálu <a href="https://www.podgastankou.sk/" target="_blank" rel="noopener noreferrer">Pod Gaštankou</a><br/>
     Kalinčiakova ulica, 900 01 Modra<br/><br/>
 
-    <b>Cocktail hour</b> | 16:00 - 17:00 <br/><br/>
-    Pre zjednodušenie organizácie prosíme s gratuláciami počkať po presune do areálu. Pomedzi si spravíme aj spoločné fotky ;)<br/><br/>
+    <b>Cocktail hour</b> | 16:00 - 17:00 <br/>
+    Pre zjednodušenie organizácie prosíme s gratuláciami počkať po presune do areálu. Pomedzi to si spravíme aj spoločné fotky ;)<br/><br/>
 
     <b>Privítanie, príhovory a prípitok</b> | 17:00 - 17:30 <br/><br/>
 
