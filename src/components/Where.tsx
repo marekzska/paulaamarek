@@ -33,7 +33,7 @@ export const Where = () => {
         </div>
       </div>
       
-      <div className="flex flex-col gap-x-10 lg:grid grid-cols-2 gap-10 ">
+      <div className="flex flex-col gap-10 lg:grid grid-cols-2 mt-10">
         <div className="flex flex-col gap-4">
           {/* <h2 className="text-darker font-bold text-7xl font-sansita">
             {texts.whereTitle}
