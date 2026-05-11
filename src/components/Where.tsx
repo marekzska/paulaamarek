@@ -15,7 +15,7 @@ export const Where = () => {
             {texts.whereTransportTitle}
           </h3>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5307.333958111949!2d17.28849!3d48.309256!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c974638668f0d%3A0x9a8ff35e729e6bc3!2sKostol%20sv.%20Martina!5e0!3m2!1scs!2sch!4v1767792287108!5m2!1scs!2sch"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d198369.03138808612!2d17.11584905!3d48.1358554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c89360aca6197%3A0x631f9b82fd884368!2sBratislava%2C%20Slovensko!5e1!3m2!1scs!2sch!4v1778527391857!5m2!1scs!2sch"
             width="800"
             height="450"
             style={{ border: 0 }}
