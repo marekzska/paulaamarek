@@ -19,14 +19,13 @@ export const WhatsHappening = () => {
             __html: texts.whatHappeningForEveryoneText,
           }}
         />
-
         <h4 className="text-darker font-bold text-3xl font-sansita">
           {texts.whatsHappeningForGuestsTitle}
         </h4>
         <p
           className="text-base font-nunito text-lighter"
           dangerouslySetInnerHTML={{
-            __html: texts.whatsHappeningForGuestsText,
+            __html: texts.whatsHappeningForGuestsText
           }}
         />
       </div>
