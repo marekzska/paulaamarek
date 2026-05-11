@@ -27,42 +27,25 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   Kostol sv. Martina - Vinosady<br/>
   Pezinská 151, 902 01 Vinosady
   `,
-
-  //what you can bring
-  whatYouCanBringTitle: "Čo môžete priniesť?",
-  whatYouCanBringGifts: "Dary",
-  whatYouCanBringGiftsText: `
-  Veľmi si vážime, že s nami prídete osláviť náš veľký deň. Darčeky však vôbec nie sú nutné a najväčšou radosťou pre nás bude vaša prítomnosť. Ak by ste nás napriek tomu chceli niečím potešiť, radosť nám spraví príspevok do cestovateľského fondu na našu svadobnú cestu.
-  `,
-  whatYouCanBringFlowers: "Kvety",
-  whatYouCanBringFlowersText: `
-  Vieme, že kvety k svadbám neodmysliteľne patria. Sálu pre vás vyzdobíme viac než dosť, preto nebude nutné, aby ste kvety nosili vy. Ak by ste nám napriek tomu chceli priniesť kvety ako gratuláciu, poteší nás <b>malá</b> kytička. Pomôže nám to predísť zbytočnému plytvaniu. Ďakujeme
-  `,
-
   whatsHappeningForGuestsTitle: "Pre našich najbližších",
-  // whatsHappeningForGuestsText: `
-  //   <b>Presun</b> : 15:45 - 16:00 <br/>
-  //   Autobusmi do areálu <a href="https://www.podgastankou.sk/" target="_blank" rel="noopener noreferrer">Pod Gaštankou</a><br/>
-  //   Kalinčiakova ulica, 900 01 Modra<br/><br/>
+  whatsHappeningForGuestsText:
+  `<b>Presun</b> : 15:45 - 16:00 <br/>
+    Autobusmi do areálu <a href="https://www.podgastankou.sk/" target="_blank" rel="noopener noreferrer">Pod Gaštankou</a><br/>
+    Kalinčiakova ulica, 900 01 Modra<br/><br/>
 
-  //   <b>Cocktail hour</b> | 16:00 - 17:00 <br/><br/>
+    <b>Cocktail hour</b> | 16:00 - 17:00 <br/><br/>
 
-  //   <b>Privítanie, príhovory a prípitok</b> | 17:00 - 17:30 <br/><br/>
+    <b>Privítanie, príhovory a prípitok</b> | 17:00 - 17:30 <br/><br/>
 
-  //   <b>Večera</b> | 17:30 - 19:00 <br/><br/>
+    <b>Večera</b> | 17:30 - 18:30 <br/><br/>
 
-  //   <b>Spoločný program</b> | 19:00 - 20:00 <br/><br/>
+    <b>Prvý tance</b> | 19:30 <br/><br/>
 
-  //   <b>Prvý tanec</b> | 20:00 <br/><br/>
+    <b>Krájanie torty</b> | 20:30 <br/><br/>
 
-  //   <b>Krájanie torty</b> | 20:20 <br/><br/>
-
-  //   <b>Voľný program</b> | 21:00 - ... <br/><br/>
-
-  //   <b>Čepčenie</b> | 00:00 <br/>
-  // `,
-
-  whatsHappeningForGuestsText: "Dozviete sa neskôr :)",
+    <b>Čepčenie</b> | 22:30 <br/>
+  `
+  ,
 
   // MY sekcia
   usTitle: "My",
@@ -86,7 +69,7 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   whereCeremonyTitle: "Obrad",
   whereFeastTitle: "Hostina",
   whereInfoText: `
-  Všetky informácie o areáli, kde sa svadba uskutoční nájdete na ich
+  Všetky informácie o areáli, kde sa svatba uskutoční nájdete na ich
   oficiálnom webe. V prípade, že nepôjdete z kostola s nami autobusom o
   parkovanie sa nemusíte báť. Priamo <b>pred bránami areálu</b> je miesto, kde
   môžete auto pohodlne zaparkovať.`,
