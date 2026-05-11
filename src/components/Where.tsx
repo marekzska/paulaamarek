@@ -15,8 +15,8 @@ export const Where = () => {
             {texts.whereTransportTitle}
           </h3>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d36060.055408500106!2d17.11464641030736!3d48.21985371100888!2m3!1f-2.5444437451708134e-14!2f0!3f0!3m2!1i1024!2i768!4f35!4m13!3e0!4m5!1s0x476c89360aca6197%3A0x631f9b82fd884368!2sBratislava%2C%20Slovensko!3m2!1d48.1477745!2d17.1071553!4m5!1s0x476c974638668f0d%3A0x9a8ff35e729e6bc3!2sKostol%20sv.%20Martina%2C%20Pezinsk%C3%A1%20151%2C%20902%2001%20Vinosady%2C%20Slovensko!3m2!1d48.3092559!2d17.2884895!5e1!3m2!1scs!2sch!4v1778529469806!5m2!1scs!2sch"
-            // src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d198369.03138808612!2d17.11584905!3d48.1358554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c89360aca6197%3A0x631f9b82fd884368!2sBratislava%2C%20Slovensko!5e1!3m2!1scs!2sch!4v1778527391857!5m2!1scs!2sch"
+            // src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d36060.055408500106!2d17.11464641030736!3d48.21985371100888!2m3!1f-2.5444437451708134e-14!2f0!3f0!3m2!1i1024!2i768!4f35!4m13!3e0!4m5!1s0x476c89360aca6197%3A0x631f9b82fd884368!2sBratislava%2C%20Slovensko!3m2!1d48.1477745!2d17.1071553!4m5!1s0x476c974638668f0d%3A0x9a8ff35e729e6bc3!2sKostol%20sv.%20Martina%2C%20Pezinsk%C3%A1%20151%2C%20902%2001%20Vinosady%2C%20Slovensko!3m2!1d48.3092559!2d17.2884895!5e1!3m2!1scs!2sch!4v1778529469806!5m2!1scs!2sch"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d198369.03138808612!2d17.11584905!3d48.1358554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c89360aca6197%3A0x631f9b82fd884368!2sBratislava%2C%20Slovensko!5e1!3m2!1scs!2sch!4v1778527391857!5m2!1scs!2sch"
             width="800"
             height="450"
             style={{ border: 0 }}
