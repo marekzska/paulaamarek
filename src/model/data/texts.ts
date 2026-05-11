@@ -38,7 +38,7 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   Kostol sv. Martina - Vinosady<br/>
   Pezinská 151, 902 01 Vinosady<br><br>
 
-  Možnosť odvozu z BA popísaná <a href="#where">nižšie</a>.
+  Možnosť odvozu z BA popísaná <b><u><a href="#where">nižšie</a></u></b>.
   `,
   
   whatsHappeningForGuestsTitle: "Pre našich najbližších",
