@@ -80,11 +80,17 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   whereTitle: "Kde",
   whereCeremonyTitle: "Obrad",
   whereFeastTitle: "Hostina",
+  whereTransportTitle: "Autobus z Bratislavy do Vinosadov",
   whereInfoText: `
   Všetky informácie o areáli, kde sa svatba uskutoční nájdete na ich
   oficiálnom webe. V prípade, že nepôjdete z kostola s nami autobusom o
   parkovanie sa nemusíte báť. Priamo <b>pred bránami areálu</b> je miesto, kde
   môžete auto pohodlne zaparkovať.`,
+  whereTransportInfoText: `
+  <b>Miesto odchodu:</b> __________________ <br>
+  <b>Čas odchodu:<b> 13:45 <br>
+  Ak by sa chcel ešte niekto pridať, miest je dostatok — prosíme však, aby nám dal vopred vedieť, aby bus neodišiel bez neho.
+  `,
   whereCeremonyInfoText: `Parkovať môžete <b>zboku kostola alebo pozdĺž hlavnej cesty na ktoromkoľvek voľnom mieste</b>. Prosíme, <b>neparkujte na súkromných pozemkoch</b>, dbajte aby ste <b>neblokovali vjazdy a výjazdy</b> z domov a nenechávajte prosím auto pred kostolom, alebo v kopci na ceste ku kostolu. Ďakujeme za ohľaduplnosť.`,
   whereLinkText: "Stránka areálu",
 
