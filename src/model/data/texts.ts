@@ -85,7 +85,7 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   oficiálnom webe. V prípade, že nepôjdete z kostola s nami autobusom o
   parkovanie sa nemusíte báť. Priamo <b>pred bránami areálu</b> je miesto, kde
   môžete auto pohodlne zaparkovať.`,
-  whereCeremonyInfoText: `Parkovať môžete <b>zboku kostola alebo pozdĺž cesty</b> na ktoromkoľvek voľnom mieste. Prosíme, <b>neparkujte na súkromných pozemkoch</b> a dbajte, aby ste <b>neblokovali vjazdy a výjazdy</b> z domov. Ďakujeme za ohľaduplnosť.`,
+  whereCeremonyInfoText: `Parkovať môžete <b>zboku kostola alebo pozdĺž hlavnej cesty na ktoromkoľvek voľnom mieste</b>. Prosíme, <b>neparkujte na súkromných pozemkoch</b>, dbajte aby ste <b>neblokovali vjazdy a výjazdy</b> z domov a nenechávajte prosím auto pred kostolom, alebo v kopci na ceste ku kostolu. Ďakujeme za ohľaduplnosť.`,
   whereLinkText: "Stránka areálu",
 
   // footer section
