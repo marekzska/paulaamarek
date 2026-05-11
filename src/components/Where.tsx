@@ -24,6 +24,12 @@ export const Where = () => {
             className="max-w-full"
           ></iframe>
         </div>
+        <div className="flex flex-col gap-4">
+          <p
+            className="text-lighter text-base"
+            dangerouslySetInnerHTML={{ __html: texts.whereCeremonyInfoText }}
+          />
+        </div>
       </div>
 
       <div className="flex flex-col gap-10 lg:grid grid-cols-2 mt-10">
