@@ -5,7 +5,7 @@ import { Link } from "react-router";
 export const Where = () => {
   return (
     
-    <div className="mx-10 lg:px-10 py-20">
+    <div className="mx-10 lg:px-10 py-20" id="where">
       <h2 className="text-darker font-bold text-7xl font-sansita">
         {texts.whereTitle}
       </h2>

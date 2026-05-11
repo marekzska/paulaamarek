@@ -36,7 +36,9 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   whatHappeningForEveryoneText: `
   <b>Obrad</b> | 14:30 - 15:00 <br/>
   Kostol sv. Martina - Vinosady<br/>
-  Pezinská 151, 902 01 Vinosady
+  Pezinská 151, 902 01 Vinosady<br><br>
+
+  Možnosť odvozu z BA popísaná<a href="#where">nižšie</a>.
   `,
   
   whatsHappeningForGuestsTitle: "Pre našich najbližších",
