@@ -44,8 +44,7 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
     <b>Krájanie torty</b> | 20:30 <br/><br/>
 
     <b>Čepčenie</b> | 22:30
-  `
-  ,
+    `,
 
   // MY sekcia
   usTitle: "My",
