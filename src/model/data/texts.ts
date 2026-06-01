@@ -89,7 +89,7 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   parkovanie sa nemusíte báť. Priamo <b>pred bránami areálu</b> je miesto, kde
   môžete auto pohodlne zaparkovať.`,
   whereTransportInfoText: `
-  <b>Miesto odchodu:</b> __________________ <br>
+  <b>Miesto odchodu:</b> <a href='https://maps.app.goo.gl/WpFRg4sMUNLSi6No6'> Dom Quo Vadis, Hurbanovo námestie 1</a><br>
   <b>Čas odchodu:</b> 13:45 <br><br>
   <b>Ak by mal ešte niekto záujem o odvoz z BA, je veľmi pravdepodobné, že v autobuse budú volné miesta. Ozvite sa a odvoz dohodneme.</b>
   `,
