@@ -93,7 +93,7 @@ Ak by vám tu niečo chýbalo alebo ste mali akékoľvek otázky, pokojne sa ná
   <b>Čas odchodu:</b> 13:15<br><br>
   <b>Ak by mal ešte niekto záujem o odvoz z BA, je veľmi pravdepodobné, že v autobuse budú volné miesta. Ozvite sa a odvoz dohodneme.</b>
   `,
-  whereCeremonyInfoText: `Parkovať môžete <b>zboku kostola alebo pozdĺž hlavnej cesty na ktoromkoľvek voľnom mieste</b>. Prosíme, <b>neparkujte na súkromných pozemkoch</b>, dbajte aby ste <b>neblokovali vjazdy a výjazdy</b> z domov a nenechávajte prosím auto pred kostolom, alebo v kopci na ceste ku kostolu. Ďakujeme za ohľaduplnosť.`,
+  whereCeremonyInfoText: `Parkovať môžete <b>zboku kostola alebo pozdĺž hlavnej cesty na ktoromkoľvek voľnom mieste</b>. V okoli nie je vela parkovacích miest, takže prosíme, <b>neparkujte na súkromných pozemkoch</b>, dbajte aby ste <b>neblokovali vjazdy a výjazdy</b> z domov a nenechávajte prosím auto pred kostolom, alebo v kopci na ceste ku kostolu. Ďakujeme za ohľaduplnosť.`,
   whereLinkText: "Stránka areálu",
 
   // footer section
